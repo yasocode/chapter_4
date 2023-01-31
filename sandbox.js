@@ -68,12 +68,12 @@
 
 //functions & methods
 
-const name = "Yasoli"
+// const name = "Yasoli"
 
-const greet = () => "Hello!";
+// const greet = () => "Hello!";
 
-let resultOne = greet();
-console.log(resultOne);
+// let resultOne = greet();
+// console.log(resultOne);
 
-let resultTwo = name.toUpperCase();
-console.log(greet(), resultTwo);
+// let resultTwo = name.toUpperCase();
+// console.log(greet(), resultTwo);
