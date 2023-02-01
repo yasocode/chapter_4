@@ -77,3 +77,13 @@
 
 // let resultTwo = name.toUpperCase();
 // console.log(greet(), resultTwo);
+
+//callbacks & foreach
+
+// let people = ["Hasan", "Osman", "Niyazi", "Bedir"];
+
+// let logPerson = function(person, index){
+//     console.log(`${index} - Hello ${person}!`);
+// }
+
+// people.forEach(logPerson);
